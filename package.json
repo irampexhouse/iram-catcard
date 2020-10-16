@@ -1,6 +1,6 @@
 {
-  "name": "react-native-category-card",
-  "version": "0.1.2",
+  "name": "iram-category-card",
+  "version": "0.1.3",
   "description": "",
   "keywords": [
     "SevvalEygul",
@@ -17,9 +17,9 @@
     "category",
     "CategoryCard"
   ],
-  "bugs": "https://github.com/sevvaleygul0/react-native-category-card/issues",
+  "bugs": "https://github.com/irampexhouse/iram-catcard/issues",
   "main": "./lib/categoryCard/CategoryCard.js",
-  "repository": "https://github.com/sevvaleygul0/react-native-category-card",
+  "repository": "https://github.com/irampexhouse/iram-catcard/",
   "author": "Sevval Eygul <sevvalleygull@gmail.com>",
   "license": "MIT",
   "devDependencies": {
